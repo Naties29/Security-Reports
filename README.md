@@ -10,4 +10,10 @@ Please don't hesitate to reach out, I am always looking to work, collaborate or 
 
 ## Projects Reviewed
 
-# Puppy Raffle June 2024 
+### Puppy Raffle June 2024 
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nathanael-anderson-7037042b4/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/auditor_nate)
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:nandersonworking@gmail.com)
