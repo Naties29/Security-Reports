@@ -1,4 +1,4 @@
-# Web3 Security Reviews by Nate Anderson (Auditor_Nate)
+# Web3 Security Reviews by Auditor_Nate
 
 ## Introduction
 
